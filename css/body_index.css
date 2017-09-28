@@ -1,0 +1,291 @@
+.main_index_ass{
+	background-image: url("../images/banner.jpg");	
+	background-size: cover;
+	margin: 0 auto;
+    margin-top: 10px;
+    padding-top: 80px;
+    font-family: 'Lato', sans-serif;
+    background-position: center;
+
+}
+
+/**section1**/
+
+.section1 .text_section1{
+	padding-top: 100px;
+	padding-bottom: 150px;
+
+}
+
+.section1 .p1_section1 {
+
+	font-size: 15px; 
+	color: #fff;
+}
+
+.section1 .p2_section1{
+
+	font-size: 25px;
+	color: #fff; 
+	border-style: solid;
+    border-width: 1px;
+    width: 280px;
+    margin: 0 auto;
+    padding-top: 10px;
+    margin-bottom:15px;
+}
+
+.section1 .p3_section1{
+	font-size: 12px;
+	color: #fff;
+	border-style: solid;
+    border-width: 1px;
+    width: 200px;
+    margin: 0 auto;
+    padding-top: 10px;
+}
+
+
+
+/**section1**/
+
+
+
+
+/**section2**/
+
+.section2{
+	padding-bottom: 30px;
+}
+
+.section2 .signup_box_section2 button{
+	color: #FF7F50;
+	border-style: solid;
+	border-width: 1px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+    border-color: #FF6347;
+    margin: 0 auto;
+	width: 100px;
+    background:#fff ;
+}
+
+.section2 .signup_box_section2 button:hover {
+	color: #fff;
+	border-style: solid;
+	border-width: 1px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+    margin: 0 auto;
+	width: 100px;
+    background:#FF6347 ;
+}
+
+/**section2**/
+
+/**section3**/
+.about_section3 p{
+	color: #000;
+}
+
+.text_section3 p{
+	font-size: 12px;
+	color: #474747;
+}
+.section3 .read_more_section3 a{
+	text-decoration: underline;
+	color: #474747;
+}
+.section3 .read_more_section3 a:hover{
+	text-decoration: underline;
+	color: #FF6347;
+}
+/**section3**/
+
+
+/**section4**/
+.section4 .view_gallery_section4 a{
+	text-decoration: underline;
+	color: #474747;
+	top: 20px;
+}
+.section4 .view_gallery_section4 a:hover{
+	text-decoration: underline;
+	color: #FF6347;
+	top: 20px;
+}
+
+
+
+.nav-pills>li>a, .nav-pills>li>a:focus, .nav-pills>li>a:hover {
+    color: #fff;
+    text-align: center;
+    background-color: #FF6347;
+    padding: 10px;
+    margin: 20px;
+}
+
+
+.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover {
+    color: #fff;
+    background-color: #FF6347;
+}
+
+
+/**section4**/
+
+/**section5**/
+.section5 .carousel-indicators li {
+    display: inline-block;
+    text-indent: 0;
+    margin-bottom: -20px;
+    cursor: pointer;
+    border: none;
+    border-radius: 50%;
+    background-color: #FF7F50;
+    box-shadow: inset 1px 1px 1px 1px rgba(0,0,0,0.5);    
+}
+
+.carousel-indicators .active {
+    width: 13px;
+    height: 13px;
+    margin: 5px;
+}
+
+.p_head_section5{
+	font-size: 20px;
+	padding-bottom: 20px;
+	padding-top: 50px;
+}
+
+.profile_slide1 i{
+	color: 	#FF7F50;
+}
+
+.section5 .details_slide1 {
+	padding-bottom: 70px;
+}
+
+.section5{
+	border-bottom: 0;
+}
+/**section5**/
+
+/**section6**/
+
+.section6{
+	background-image: url("../images/photographer.jpg");	
+	background-size: cover;
+	margin: 0 auto;
+    margin-top: 10px;
+    padding-top: 80px;
+    font-family: 'Lato', sans-serif;
+    background-position: center;
+
+}
+
+.text_section6{
+	color: #fff;
+}
+
+.p1_section6{
+	margin-top: -30px;
+	padding-bottom: 10px;
+}
+
+.p2_section6 p{
+	border-style: solid;
+	border-width: 1px;
+	display: inline;
+	padding: 10px;
+
+}
+
+.p3_section6{
+	padding-bottom: 30px;
+	padding-top: 20px;
+}
+
+/**section6**/
+
+/**section7**/
+
+.book_text{
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.section7{
+    margin:0 auto;
+    width:500px;
+}
+
+.section7 .send_a_message button{
+	color: #FF7F50;
+	border-style: solid;
+	border-width: 1px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+    border-color: #FF6347;
+    margin: 0 auto;
+    margin-bottom: 20px;
+	width: 150px;
+    background:#fff ;
+}
+
+.section7 .send_a_message button:hover {
+	color: #fff;
+	border-style: solid;
+	border-width: 1px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+    margin: 0 auto;
+	width: 150px;
+    background:#FF6347 ;
+}
+
+
+.f_name{
+    max-width: 200px;
+}
+.f_phone_no{   
+    max-width: 200px;
+}
+.f_email_id{    
+    max-width: 200px;        
+}
+.f_date{
+    max-width: 200px;
+}
+
+
+/**section7**/
+
+/**footer**/
+
+.footer_contents{
+	background-color: #404040;
+	padding: 15px;
+}
+
+
+.footer_contents p{
+	color: #fff;
+}
+
+.footer_contents ul li {
+	list-style-type: none;
+	font-size: 12px;
+	color: #fff;
+}
+
+.footer_contents ul li a{
+	color: #fff;
+}
+
+
+
+/**footer**/
+
+
+
